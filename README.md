@@ -1,6 +1,6 @@
 # agentic-code-review
 
-This project was done during my internship with Accenture. As the company rules and regulations any resouces associated with the organisations shouldnt be shared outside of the organisation. 
+This project was done during my internship with Accenture. As the company rules and regulations any resouces associated with the organisation should not be shared outside of the organisation. 
 
 With regards to the above, I am only attached the sample demo of what we have created during the internship.
 
