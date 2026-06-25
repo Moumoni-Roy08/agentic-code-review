@@ -2,7 +2,7 @@
 
 This project was done during my internship with Accenture. As the company rules and regulations any resouces associated with the organisation should not be shared outside of the organisation. 
 
-With regards to the above, I am only attached the sample demo of what we have created during the internship.
+With regards to the above, I am only attaching the sample demo of what we have created during the internship.
 
 This is only a sample photo of the end product, not intended with the original end-product.
 
